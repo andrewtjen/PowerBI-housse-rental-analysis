@@ -51,5 +51,5 @@ Analyze official Local Government Area of North and West Metro of Victoria
         Final data is chosen to help company use this analysis for specific decision making that involves financial needs.
 
 File:
-BI task.pbix : Microsoft Power BI file used.
-Quarterly Median Rents by local government area: Excel file that power BI pull from.
+* BI task.pbix : Microsoft Power BI file used.
+* Quarterly Median Rents by local government area: Excel file that power BI pull from.
