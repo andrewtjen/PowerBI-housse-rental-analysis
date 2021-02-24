@@ -11,13 +11,14 @@ Analyze official Local Government Area of North and West Metro of Victoria
         Querying Quarterly rental price by separating each stated attributes. Cross multiplying all and removing "Group Total and Total". Load it to workbook and power BI.
         Created Relationship between suburb from rental price table and census table.
 - Visualization -
+
+        
         First Page
         Map : Suburb as axis, Limit Arcgis Search to one country and boundary format , Average Rent across all period from 2017
         Line Graph: Period as Axis, Suburb as Legend, Median Rent Price as Value Summarize by Average, Filter Type = median
         Forecast Chart: Forecast Period as Axis, Suburb as Legend, Simple Linear Regression Measure as Value summarize by Average
         Growth Rate: Slope of simple linear regression is returned instead
         Standard Deviation: Median Price Summarized by standard Deviation
-
         Second Page
         Period Filter from 1/1/2016 - 31/12/2016
         First Line Graph (Top Left): Suburb as Axis, Rental Price as value summarized by Average,  Median Age as secondary Value
