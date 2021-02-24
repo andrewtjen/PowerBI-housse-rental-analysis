@@ -1,5 +1,5 @@
   
-#Rental Price Analysis
+# Rental Price Analysis
 
 Data Source:
 Quarterly Rental Price: https://discover.data.vic.gov.au/dataset/rental-report-quarterly-quarterly-median-rents-by-lga
